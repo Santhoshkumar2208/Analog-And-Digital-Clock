@@ -1,6 +1,6 @@
 Analog And Digital Clock
 
-   A dual clock app built using HTML, CSS, and JavaScript. It shows the current time in both analog and digital formats, updates every 500 milliseconds, and displays the current day and AM/PM session. No libraries or frameworks needed — just open in a browser.
+   A dual clock app built using HTML, CSS, and JavaScript. It shows the current time in both analog and digital formats, updates every 500 milliseconds, and displays the current day and AM/PM session.
 
 Features
 
